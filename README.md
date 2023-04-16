@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Halil İbrahim</h1>
-<h3 align="center">I like solving problem</h3>
+<h3 align="center">I'm a full-stack wizard with a passion for crafting engaging web experiences and captivating game worlds</h3>
 <img align="right" src="https://ouch-cdn2.icons8.com/vZD-nOO0-rKGloPBW0WjLQF-i8hfkpa7QWY_3L4YTGA/rs:fit:684:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" alt="Coding" width="400" />
 
 
 - 🔭 I’m currently using **Angular, .NET, VueJs**
 
-- 🌱 I'm learning about **Microservices**
+- 🤖 I'm learning about **Microservices**
 
 - 🌱 I want to learn about **Golang, Swift, IOS mobile app development**
 
-- 💬 Ask me about **C#, .NET, Backend Dev, Computer Science**
+- 💬 Ask me about **C#, .NET, Backend Dev, Unity, Computer Science**
 
 - 📫 How to reach me **kochallibrhm@gmail.com** **halil66272@gmail.com**
 
