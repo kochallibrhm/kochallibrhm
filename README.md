@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently using **Angular, .NET, VueJs**
 
-- 🤖 I'm learning about **Microservices**
+- 🤖 I'm working about **Microservices**
 
 - 🌱 I want to learn about **Golang, Swift, IOS mobile app development**
 
